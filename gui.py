@@ -221,7 +221,7 @@ class DashboardApp(ctk.CTk):
         studiengang = self.controller.studiengang
 
         self.title("Studium - Dashboard")
-        self.geometry("1000x650")
+        self.geometry("1000x660")
 
         ctk.set_appearance_mode("dark")
         ctk.set_default_color_theme("blue")
